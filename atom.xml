@@ -1,0 +1,54 @@
+<feed xml:lang="es" xml:base="https://goheju.github.io/proyectohtml/">
+    <id>https://goheju.github.io/proyectohtml/</id>
+    <title>Portfolio atom</title>
+    <updated>2023-12-12T10:06:00+01:00</updated>
+    <link rel="alternate" href="https://goheju.github.io/proyectohtml/index.html" />
+    <author>
+        <name>Juan González Hervás</name>
+        <email>goheju_aliesma2324@iesmedinaazahara.es</email>
+    </author>
+    <category term="Portfolio" />
+    <entry>
+        <id>
+            https://goheju.github.io/proyectohtml/index.html
+        </id>
+        <title>Información sobre mi</title>
+        <update>2023-12-12T10:15:00+01:00</update>
+        <author>
+            <name>Juan González Hervás</name>
+            <email>goheju_aliesma2324@iesmedinaazahara.es</email>
+        </author>
+        <summary>
+            En este artículo encontraras información sobre mi y mi formación anterior
+        </summary>
+    </entry>
+    <entry>
+        <id>
+            https://goheju.github.io/proyectohtml/pages/lenguajemarcas.html
+        </id>
+        <title>Lenguaje de marcas</title>
+        <update>2023-12-12T10:15:00+01:00</update>
+        <author>
+            <name>Juan González Hervás</name>
+            <email>goheju_aliesma2324@iesmedinaazahara.es</email>
+        </author>
+        <summary>
+            En este artículo encontraras información sobre el lenguaje de marcas
+        </summary>
+    </entry>
+    <entry>
+        <id>
+            https://goheju.github.io/proyectohtml/pages/basedatos.html
+        </id>
+        <title>Base de datos</title>
+        <update>2023-12-12T10:15:00+01:00</update>
+        <author>
+            <name>Juan González Hervás</name>
+            <email>goheju_aliesma2324@iesmedinaazahara.es</email>
+        </author>
+        <summary>
+            En este artículo encontraras información sobre base de datos
+        </summary>
+    </entry>
+    
+</feed>
