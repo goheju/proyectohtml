@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xml:lang="es" xml:base="https://goheju.github.io/proyectohtml/index.html">
-    <id>https://goheju.github.io/proyectohtml/</id>
+<feed xml:lang="es" xml:base="https://goheju.github.io/proyectohtml/">
+    <id>https://goheju.github.io/proyectohtml/index.html</id>
     <title>Portfolio atom</title>
     <updated>2023-12-12T10:06:00+01:00</updated>
-    <link rel="alternate" href="https://goheju.github.io/proyectohtml/index.html" />
+    <link rel="alternate" href="https://goheju.github.io/proyectohtml/atom.xml" />
     <author>
         <name>Juan González Hervás</name>
         <email>goheju_aliesma2324@iesmedinaazahara.es</email>
     </author>
     <category term="Portfolio" />
     <entry>
-        <id>https://goheju.github.io/proyectohtml/index.html</id>
+        <id>https://goheju.github.io/proyectohtml/</id>
         <title>Información sobre mi</title>
         <update>2023-12-12T10:15:00+01:00</update>
         <author>
