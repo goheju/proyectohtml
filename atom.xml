@@ -10,9 +10,10 @@
     </author>
     <category term="Portfolio" />
     <entry>
-        <id>https://goheju.github.io/proyectohtml/</id>
         <title>Información sobre mi</title>
-        <update>2023-12-12T10:15:00+01:00</update>
+        <id>https://goheju.github.io/proyectohtml/</id>
+        
+        <updated>2023-12-12T10:15:00+01:00</updated>
         <author>
             <name>Juan González Hervás</name>
             <email>goheju_aliesma2324@iesmedinaazahara.es</email>
@@ -26,7 +27,7 @@
             https://goheju.github.io/proyectohtml/pages/lenguajemarcas.html
         </id>
         <title>Lenguaje de marcas</title>
-        <update>2023-12-12T10:15:00+01:00</update>
+        <updated>2023-12-12T10:15:00+01:00</updated>
         <author>
             <name>Juan González Hervás</name>
             <email>goheju_aliesma2324@iesmedinaazahara.es</email>
@@ -40,7 +41,7 @@
             https://goheju.github.io/proyectohtml/pages/basedatos.html
         </id>
         <title>Base de datos</title>
-        <update>2023-12-12T10:15:00+01:00</update>
+        <updated>2023-12-12T10:15:00+01:00</updated>
         <author>
             <name>Juan González Hervás</name>
             <email>goheju_aliesma2324@iesmedinaazahara.es</email>
